@@ -1,5 +1,7 @@
 # OverlayToastExample
 
+<img src="https://github.com/user-attachments/assets/26c2b157-1acb-4d44-be83-9184420de439" width="300">
+
 ## ⚠️ 使用上の注意：VStack構造が前提です
 
 `inlineToast` は View 拡張としてトースト通知を挿入するための簡易APIですが、  
