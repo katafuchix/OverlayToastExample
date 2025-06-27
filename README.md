@@ -1,6 +1,6 @@
 # OverlayToastExample
 
-<img src="https://github.com/user-attachments/assets/26c2b157-1acb-4d44-be83-9184420de439" width="300">
+<img src="https://github.com/user-attachments/assets/fb210fc2-9255-476f-bca0-a8e75ec64ad6" width="300">
 
 ## ⚠️ 使用上の注意：VStack構造が前提です
 
